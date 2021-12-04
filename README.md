@@ -1,4 +1,4 @@
-Solution by Eloqoquence url:
+Solution by Eloquence url:
 https://aka-eloquence.github.io/CardChallengeByEloquence/
 
 # Frontend Mentor - NFT preview card component
