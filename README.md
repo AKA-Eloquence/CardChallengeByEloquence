@@ -5,7 +5,7 @@ https://aka-eloquence.github.io/CardChallengeByEloquence/
 
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+# Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
 
