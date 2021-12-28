@@ -10,8 +10,13 @@ h3 {
   font-weight: 600;
 }
 
-h3:hover {
+.about-equilibrium h3 {
+  display: inline-block;
+}
+
+.about-equilibrium h3:hover {
   color: hsl(178, 100%, 50%);
+  cursor: pointer;
 }
 
 p {
@@ -74,10 +79,6 @@ hr {
   position: relative;
 }
 
-.img-container:hover .overlay {
-  opacity: 0.4;
-}
-
 .overlay {
   border-radius: 15px;
   position: absolute;
@@ -90,6 +91,12 @@ hr {
   opacity: 0;
   background-color: hsl(178, 100%, 50%);
 }
+
+.img-container:hover .overlay {
+  cursor: pointer;
+  opacity: 0.4;
+}
+
 
 /* Price */
 /* .price {
@@ -137,6 +144,7 @@ hr {
 
 .name:hover {
   color: hsl(178, 100%, 50%);
+  cursor: pointer;
 }
 
 .attribution {
