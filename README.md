@@ -1,5 +1,5 @@
 Solution by Eloquence url:
-https://aka-eloquence.github.io/CardChallengeByEloquence/
+https://eloquence98.github.io/CardChallengeByEloquence/
 
 # Frontend Mentor - NFT preview card component
 
